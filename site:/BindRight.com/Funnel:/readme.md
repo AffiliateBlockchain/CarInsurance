@@ -1,0 +1,2 @@
+- https://www.bindright.com/lapa/flow/PhoneNumber
+- https://www.bindright.com/confirmation/?lead_id=f6c837ec2a777e2456bb0d071b715e39
